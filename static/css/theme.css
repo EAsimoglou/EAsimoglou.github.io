@@ -9,18 +9,18 @@
   --shade-500: #012d32;
   --secondary-color: #e5b3b9;
   --grey-color: #c8d1c7;
-  --grey-text: #536250;
+  --grey-text: #536250; 
 }
 
 :root.dark {
-  --background-color: #0d1926;
-  --text-color: #f7fafc;
-  --shade-100: #1a324c;
-  --shade-300: #4383cb;
-  --shade-500: #8cb0d9;
-  --secondary-color: #a67a59;
-  --grey-color: #303f50;
-  --grey-text: #cfd8e2;
+  --background-color: #f2f5f4;
+  --text-color: #1b3817;
+  --shade-100: #bae5b3;
+  --shade-300: #024541;
+  --shade-500: #012d32;
+  --secondary-color: #e5b3b9;
+  --grey-color: #c8d1c7;
+  --grey-text: #536250;
 }
 
 :root.brown {
