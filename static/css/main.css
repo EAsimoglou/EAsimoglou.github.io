@@ -232,8 +232,9 @@ nav .container {
   font-size: 1.25rem;
   color: var(--shade-500);
   letter-spacing: 1px;
-  text-transform: uppercase;
+  
 }
+
 
 .theme-container {
   position: absolute;
