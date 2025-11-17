@@ -13034,6 +13034,16 @@ a.color-icon.border-icon:hover {
 	}
 }
 
+@media (max-width: 767px) {
+    .hover_shadow h4,
+    .hover_shadow p {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        hyphens: auto;
+        font-size: 15px;
+    }
+}
+
 /* Small phones - very compact */
 @media (max-width: 400px) {
 	#services .row.fontsize_16 {
