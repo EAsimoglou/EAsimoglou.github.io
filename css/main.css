@@ -5465,7 +5465,7 @@ h5.small-text, h4.small-text {
 }
 
 .media-links a.abs-link:before {
-	/* content: ''; */
+	content: '';
 	font-size: 60px;
 	position: absolute;
 	top: 50%;
