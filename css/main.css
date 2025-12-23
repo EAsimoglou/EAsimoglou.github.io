@@ -13149,4 +13149,31 @@ a.color-icon.border-icon:hover {
 		font-size: 16px;
 		line-height: 1.6;
 	}
+
+
+	.bibliography-section {
+		margin-top: 60px;
+		padding-top: 40px;
+		border-top: 2px solid #e0e0e0;
+	}
+	
+	.bibliography-section h2 {
+		margin-bottom: 25px;
+	}
+	
+	.bibliography-section .entry-content {
+		line-height: 1.8;
+	}
+	
+	.bibliography-section a {
+		color: #555;
+		text-decoration: none;
+		transition: color 0.3s ease;
+	}
+	
+	.bibliography-section a:hover {
+		color: #ff6b6b;
+		text-decoration: underline;
+	}
+		
 }
